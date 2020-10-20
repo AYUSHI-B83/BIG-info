@@ -20,7 +20,7 @@ const Footer = () => {
                 <br />
                 <form
                   target="_blank"
-                  action="https://formsubmit.co/ayushibansal781@gmail.com"
+                  action="https://formsubmit.co/BIGFORM.609@GMAIL.COM"
                   method="POST"
                 >
                   <div className="form-group">
@@ -59,7 +59,9 @@ const Footer = () => {
                 <li>
                   <NavLink className="addresses" to="#">
                     <MdCall style={{ outlineColor: "white" }} />
-                    +0164-2430065
+                    +0164-2430065 <br/>
+                    <MdCall style={{ outlineColor: "white" }} />
+                    +91 946 3336 383
                   </NavLink>
                 </li>
               </ul>

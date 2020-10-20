@@ -1,23 +1,23 @@
-import flex9 from "../src/imgs/letter.jpg";
-import flex4 from "../src/imgs/note.jpg";
-import flex7 from "../src/imgs/question.jpg";
+import f1 from "../src/imgs/vab.jpeg";
+import f2 from "../src/imgs/vik.jpeg";
+import f3 from "../src/imgs/vib.jpeg";
 
 const Managers = [
   {
     title: "Vaneet Bansal",
-    imgsrc: flex9,
+    imgsrc: f1,
     text: "Managing Director",
   },
   {
     title: "Vikas Bansal",
 
-    imgsrc: flex4,
+    imgsrc: f2,
     text: "Director",
   },
   {
     title: "Vishal Bansal",
 
-    imgsrc: flex7,
+    imgsrc: f3,
     text: "Director",
   },
 ];

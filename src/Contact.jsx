@@ -25,12 +25,14 @@ const Contact = () => {
                     <div className="col-lg-6">
                       <MdEmail style={{ Color: "#ffb606" }} />
 
-                      <h5>BIGFORM.609@GMAIL.</h5>
+                      <h5>BIGFORM.609@GMAIL.COM</h5>
                     </div>
                     <div className="col-lg-6">
                       <MdCall style={{ Color: "white" }} />
 
-                      <h5>+0164-2430065</h5>
+                      <h5>+0164-2430065 <br/>
+                        +91 946 3336 383
+                      </h5>
                     </div>
                   </div>
                   <div className="mt-3">
@@ -38,7 +40,7 @@ const Contact = () => {
                       <h1>Send a message!!</h1>
                       <form
                         target="_blank"
-                        action="https://formsubmit.co/ayushibansal781@gmail.com"
+                        action="https://formsubmit.co/BIGFORM.609@GMAIL.COM"
                         method="POST"
                       >
                         <div className="form-group">

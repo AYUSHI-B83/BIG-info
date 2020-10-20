@@ -7,19 +7,19 @@ const PaperData = [
     imgsrc: flex10,
     title: "Art Paper",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get art paper in bulk at minimal prices.",
   },
   {
     imgsrc: flex12,
     title: "Century Paper",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get all kinds of century paper at best prices",
   },
   {
     imgsrc: flex13,
     title: "Chromo Paper",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get all kinds of chromo paper at minimal prices.",
   },
 ];
 

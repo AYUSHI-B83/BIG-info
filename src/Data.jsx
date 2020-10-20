@@ -13,55 +13,55 @@ const Data = [
     imgsrc: flex9,
     title: "Flex-printing",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "A well designed sign is proven to be an effective means of advertisement.Get amazing flexes printed for your buisness",
   },
   {
     imgsrc: flex4,
     title: "Visiting-cards",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get your own advertising business cards today with a great designing and a classy & elegant look.Increase your sales!!",
   },
   {
     imgsrc: flex7,
     title: "Envelopes",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "The right envelope can instantly convey a wealth of ideas before its intended recipient even opens it up.So get some great envelopes printed",
   },
   {
     imgsrc: flex5,
     title: "Books",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "New to writing???Dont worry. Get your books printed at great offers and great discounts starting today!!!!",
   },
   {
     imgsrc: flex2,
     title: "Notepads",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Custom-Printed Notepads are the best ways to keep your company's name in front of prospective customers.Get your customized notepads!",
   },
   {
     imgsrc: flex3,
     title: "Question-papers",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get question papers printed for your school or college without any hussles.  Get the papers printed in bulk quickly and efficiently",
   },
   {
     imgsrc: flex1,
     title: "Letter-heads",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Creative personalized letterhead lights up sales figures.We can help you find the perfect design!",
   },
   {
     imgsrc: flex8,
     title: "Files",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get customized files for your organizations designed entirely according to your need!!",
   },
   {
     imgsrc: flex6,
     title: "Bills",
     textf:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Get your bills printed with a mark of your organization!!",
   },
 ];
 
