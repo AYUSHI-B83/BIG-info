@@ -21,6 +21,7 @@ export class BCarousel extends Component {
                 style={{ height: "500px", border: "7px solid #000" }}
                 className="d-block w-100 "
                 src={web}
+                alt={"Century paper"}
               />
             </Carousel.Item>
 
@@ -29,6 +30,7 @@ export class BCarousel extends Component {
                 style={{ height: "500px", border: "7px solid #000" }}
                 className="d-block w-100"
                 src={web1}
+                alt={"Century paper"}
               />
             </Carousel.Item>
 
@@ -37,6 +39,7 @@ export class BCarousel extends Component {
                 style={{ height: "500px", border: "7px solid #000" }}
                 className="d-block w-100"
                 src={web3}
+                alt={"Century paper"}
               />
             </Carousel.Item>
           </Carousel>
