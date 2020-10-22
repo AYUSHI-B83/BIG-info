@@ -19,8 +19,8 @@
     "static/media/c.jpeg": "/static/media/c.36974cfd.jpeg",
     "static/media/cccc.jpg": "/static/media/cccc.bc45b82a.jpg",
     "static/media/ccccc.jpg": "/static/media/ccccc.7c2a0548.jpg",
-    "static/media/contactus.jpeg": "/BIG-info/static/media/contactus.4db34d51.jpeg",
-    "static/media/index.css": "/BIG-info/static/media/paper1.3f7914ca.jpg"
+    "static/media/contactus.jpeg": "/static/media/contactus.4db34d51.jpeg",
+    "static/media/index.css": "/static/media/paper1.3f7914ca.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a9a59d5b.js",
